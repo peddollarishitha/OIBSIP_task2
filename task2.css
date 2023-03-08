@@ -1,0 +1,92 @@
+.home-container{
+    background-color: black;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    height: 580px;
+}
+
+.home-head{
+    font-family: "Roboto";
+    padding-top: 50px;
+    font-size: 60px;
+}
+.image-setting{
+    height: 300px;
+    width: 300px;
+    border-radius: 180px;
+    padding: 10px;
+}
+.about-container{
+    background-color:rgb(217, 237, 243);
+    font-family: "Bree Serif";
+    height: 800px;
+}
+.about{
+    height: 700px;
+    width: 80vw;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    border-style: none;
+}
+.about-list-items{
+    color:rgb(180, 145, 172);
+    font-weight: bold;
+    font-size: 20px;
+}
+.about-head{
+    font-size: 50px;
+    color: rgb(180, 140, 171);
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+.about-para{
+    font-size: 30px;
+    color:rgb(90, 114, 121); 
+    text-align: center;
+}
+.about-list-head{
+    color:#012541;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.button-setting{
+    border-style: none;
+    border-radius: 27px;
+    height: 60px;
+    width: 250px;
+    color: #ffffff;
+    background-color: rgb(180, 145, 172);
+    font-weight: bold;
+    font-size: 23px;
+}
+.contact-section {
+    padding-top: 80px;
+    background-color: rgb(163, 148, 159);
+    height: 400px;
+  }
+  .contact-section-heading {
+    text-align: center;
+    color: #d4e6dd;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .contact-icon-container {
+    background-color:rgb(223, 211, 220);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color:rgb(180, 145, 172);
+    font-size: 35px;
+  }
